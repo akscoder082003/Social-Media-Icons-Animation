@@ -1,6 +1,8 @@
 # Social-Media-Icons-Animation
  
-Here I have used fonts from Font Awesome Kit.
+This is the small project regarding social media icons, it can be used in any type of webpages or apps.
+
+Here I have used icons from Font Awesome Kit.
 The prefix fa and the icon's name is used in code to show the icon.
 And fas for solid icon, fab for brand icon.
 
@@ -14,3 +16,9 @@ I have also used tranform property (translateX()), this shows the value of X-axi
 And transition-delay property specifies when the transition effect will start.
 
 I have link facebook, instagram, twitter, linkedin icons in a single element link.
+
+Here is the output:
+
+
+https://user-images.githubusercontent.com/109755100/197164861-fc6b10c4-1561-4245-b0fa-59a5f66c762c.mp4
+
